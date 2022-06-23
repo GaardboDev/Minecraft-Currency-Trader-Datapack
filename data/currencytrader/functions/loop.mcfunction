@@ -1,0 +1,1 @@
+execute if entity @e[type=minecraft:wandering_trader,tag=!currency] run function currencytrader:givetrades
